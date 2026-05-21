@@ -172,6 +172,7 @@
     - id: AirGrenade # DeltaV
     - id: HolotapeProjector # DeltaV - engineering tape
     - id: BoxFolderCeClipboard # DeltaV - Power Digi-Board
+    - id: HandHeldAtmosMonitor # handheld atmos computer - ported from DEN
 
 # Hardsuit table, used for suit storage as well
 - type: entityTable
