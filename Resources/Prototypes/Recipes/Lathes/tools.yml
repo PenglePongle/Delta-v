@@ -224,3 +224,23 @@
     Steel: 750
     Plasma: 150
     Uranium: 150
+
+- type: latheRecipe
+  id: HandHeldAtmosMonitor
+  result: HandHeldAtmosMonitorEmpty
+  category: Tools
+  completetime: 2
+  materials:
+    Steel: 800
+    Glass: 300
+    Plastic: 200
+
+- type: latheRecipe
+  id: HandHeldPowerMonitor
+  result: HandHeldPowerMonitorEmpty
+  category: Tools
+  completetime: 2
+  materials:
+    Steel: 800
+    Glass: 300
+    Plastic: 200

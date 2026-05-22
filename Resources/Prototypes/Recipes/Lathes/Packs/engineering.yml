@@ -63,6 +63,7 @@
   - WelderExperimental
   - JawsOfLife
   - TrayGoggles # DeltaV
+  - HandHeldPowerMonitor #DEN
   #- Fulton # DeltaV - moved to MiningDeltaV
   #- FultonBeacon # DeltaV - moved to MiningDeltaV
 
@@ -72,6 +73,7 @@
   id: AtmosTools
   recipes:
   - HolofanProjector
+  - HandHeldAtmosMonitor #DEN
 
 - type: latheRecipePack
   id: EngineeringWeapons
